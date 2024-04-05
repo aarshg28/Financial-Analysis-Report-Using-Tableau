@@ -1,4 +1,5 @@
-Profit and Loss Statement Dashboard Project
+#Profit and Loss Statement Dashboard Project
+
 Overview
 This project showcases a Profit and Loss Statement Dashboard created using Tableau. The dashboard analyzes financial metrics such as Sales, Net Profit, Gross Profit, Net Profit Margin, and Gross Profit Margin to provide insights into the financial performance of a business.
 
